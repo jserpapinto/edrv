@@ -100,8 +100,6 @@ export default {
 </script>
 
 <style lang="css">
-/* Enter and leave animations can use different */
-/* durations and timing functions.              */
 .slide-fade-enter-active {
   transition: all 0.3s ease;
 }

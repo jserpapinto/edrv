@@ -1,4 +1,8 @@
-# chargestations
+# Charge Stations Management System
+
+Single page application based in [VueJS](https://vuejs.org/) and [NuxtJS](https://nuxtjs.org/).
+
+Please follow the build setup.
 
 ## Build Setup
 
@@ -12,9 +16,5 @@ $ npm run dev
 # build for production and launch server
 $ npm run build
 $ npm run start
-
-# generate static project
-$ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
